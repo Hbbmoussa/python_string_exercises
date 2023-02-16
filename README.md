@@ -1,2 +1,2 @@
 # python_string_exercises
-Python String Exercises
+This repository contains a collection of Python exercises designed to help you practice working with strings.
